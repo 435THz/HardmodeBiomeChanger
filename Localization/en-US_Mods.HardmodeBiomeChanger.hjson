@@ -1,0 +1,23 @@
+Items: {
+	SpiritOverriderLeft: {
+		DisplayName: Spirit Overrider
+		Tooltip:
+			'''
+			Forces the Hallow to spawn on the left side of the world after defeating the Wall of Flesh.
+			It breaks down into its components if used in Hardmode.
+			Shimmer it to switch sides.
+			'''
+	}
+
+	SpiritOverriderRight: {
+		DisplayName: "{$SpiritOverriderLeft.DisplayName}"
+		Tooltip:
+			'''
+			Forces the Hallow to spawn on the right side of the world after defeating the Wall of Flesh.
+			It breaks down into its components if used in Hardmode.
+			Shimmer it to switch sides.
+			'''
+	}
+}
+
+UseMessage: The ancient spirits of light and dark have been rearranged.

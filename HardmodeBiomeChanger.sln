@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HardmodeBiomeChanger", "HardmodeBiomeChanger.csproj", "{114D36DA-8078-4B0A-BE8E-93B68A784579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114D36DA-8078-4B0A-BE8E-93B68A784579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114D36DA-8078-4B0A-BE8E-93B68A784579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114D36DA-8078-4B0A-BE8E-93B68A784579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114D36DA-8078-4B0A-BE8E-93B68A784579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39EBABC3-6B7A-471C-909E-05C0B515813D}
+	EndGlobalSection
+EndGlobal

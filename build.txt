@@ -1,0 +1,3 @@
+displayName = Hardmode Biome Changer
+author = MistressNebula
+version = 0.1
