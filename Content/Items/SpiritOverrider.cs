@@ -1,5 +1,4 @@
 ﻿using HardmodeBiomeChanger.Common;
-using System.IO;
 using Terraria;
 using Terraria.Enums;
 using Terraria.ID;
