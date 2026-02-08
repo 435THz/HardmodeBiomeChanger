@@ -1,4 +1,4 @@
 displayName = Hardmode Biome Changer
 author = MistressNebula
-version = 1.0
+version = 1.0.0.1
 homepage = https://github.com/435THz/HardmodeBiomeChanger
